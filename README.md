@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks/Tools: Excel, SQL, Power BI, Power Query (ETL)🎓 Courses Data Analyst Program – IIT Guwahati (Ongoing) Microsoft Excel Certification SQL Certification Digital Marketing – SkillDzire Leadership: Foundational Principles – HarvardX 👉 You can write: Courses: Data Analyst Program (IIT Guwahati), Excel, SQL, Power BI**
 
-- 👯 I’m looking to collaborate on **I’m looking to start my career as a Data Analyst and work on real-world data projects**
+- 👯  **I’m looking to start my career as a Data Analyst and work on real-world data projects**
 
 - 💬 Ask me about **Excel, SQL, Power BI, and Data Analysis**
 
